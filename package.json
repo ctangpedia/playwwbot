@@ -1,0 +1,20 @@
+{
+  "name": "play-werewolf-bot",
+  "version": "1.0.0",
+  "description": "Discord Bot that plays werewolf",
+  "main": "index.js",
+  "dependencies": {
+    "@discordjs/opus": "^0.1.0",
+    "discord.js": "^11.5.1",
+    "dotenv": "^8.2.0",
+    "ffmpeg-binaries": "^4.0.0",
+    "ffmpeg-static": "^4.0.1",
+    "node-opus": "^0.3.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "CTP Tech",
+  "license": "ISC"
+}
